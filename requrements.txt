@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+langgraph
+tavily-python
+requests
+pytest
