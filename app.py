@@ -103,10 +103,8 @@ agent = create_agent(
 )
 
 questions = [
-    #"10 + 20 kitna hai?",
-    "Current date and time batao",
-    # "AI ke latest developments batao",
-    # "12951 train ki details batao"
+    "10 + 20 kitna hai?",
+    
 ]
 
 config = {
